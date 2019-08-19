@@ -1,0 +1,1 @@
+com.epam.springLesson.Event{id=6, msg='Some event for user null says Hallo there', date=Aug 15, 2019, 4:05:26 PM}com.epam.springLesson.Event{id=6, msg='Another event for user null says Hallo there', date=Aug 15, 2019, 4:05:26 PM}com.epam.springLesson.Event{id=6, msg='one more message event for user null says Hallo there', date=Aug 15, 2019, 4:05:26 PM}
